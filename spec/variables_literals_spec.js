@@ -11,7 +11,11 @@ describe("Variables and Literals",function(){
     it("Whether the person has a car or not",function(){
         expect(hasCar).toBe(true);
     });
-    it("Whether the person has a bank balance",function(){
-        expect(hasBankBalance).toBe(undefined);
-    })
+    it("Define a variable with number as String name it num1",function(){
+        expect(num1).toEqual("22");
     });
+    it("Definte a variable num2 and parse num1 to num2 by using parseInt function",function(){
+       expect(num2).toEqual(22); 
+    });
+    
+});

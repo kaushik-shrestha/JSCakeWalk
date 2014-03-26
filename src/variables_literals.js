@@ -25,23 +25,37 @@
  
 /*
 Declare a person with variable firstName as "John", lastName as "Adam", age as 40, hasCar as true and
-hasBankBalance as undefined
 */
 
 //Declaring firstName as John
 var firstName = "John";
 
 //Declaring the lastName
-
+var lastName;
 //Declaring the age of the person
 
 //Declaring whether the person has a car or not
 
-//Declaring whether the person has a bank balance or not
 
-
-
-
+/**
+ * Now lets look at declaring some more variables and do some type conversion on them
+ * this would get you started to understand a bit more about them.
+ * for example :-
+ * 
+ * Convert variable a from a string to a number
+ * var a ="22";
+ * var b = parseInt(a);
+ * 
+ * same goes with float too like
+ * var a1 = "2.22";
+ * var b1 = parseFloat(a1);
+ * 
+ * Converting a number to string 
+ * 
+ * var a2 = 22;
+ * var b2 = a2.toString();
+ * 
+ **/
 
 
 
