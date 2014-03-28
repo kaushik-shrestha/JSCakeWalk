@@ -18,4 +18,23 @@ describe("Variables and Literals",function(){
        expect(num2).toEqual(22); 
     });
     
+    /**
+     * Test for Arrays
+     **/
+     it("Declare an Array with name 'Animals'",function(){
+        expect(Animals).toBeDefined(); 
+     });
+     it("Add cat,rat and owl to the Animals Array",function(){
+        expect(Animals).toContain("cat");
+        expect(Animals).toContain("rat");
+        expect(Animals).toContain("Owl");
+     });
+     it("Declare an array called NumberArray with numbers and add numbers to it namely 3,4,5,9 ",function(){
+         expect(NumberArray).toContain(3);
+         expect(NumberArray).toContain(4);
+         expect(NumberArray).toContain(5);
+         expect(NumberArray).toContain(9);
+         
+     });
+     
 });

@@ -33,7 +33,7 @@ var firstName = "John";
 //Declaring the lastName
 var lastName;
 //Declaring the age of the person
-
+var age=40;
 //Declaring whether the person has a car or not
 
 
@@ -63,7 +63,15 @@ var lastName;
 
 
 
-
+/**
+ * Array Literals
+ * 
+ * var arrayTemp = new Array();
+ * arrayTemp[0]="Cat";
+ * 
+ **/
+ 
+ var Animals = new Array(); 
 
 
 
