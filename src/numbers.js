@@ -14,8 +14,8 @@
  * This block deals with numeric methods in JavaScript
  * @example
  * 	var a = 10;
- * 	a.isNan();
- * 	a.isNumber()
+ * 	a.toString();
+ * 	a.toFixed()
  *
  * and so on.
  *
