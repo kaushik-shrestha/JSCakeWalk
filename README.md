@@ -6,7 +6,7 @@ Features Covered
 
 *   Variables   -> Done
 *   Numbers     -> Done
-*   Strings
+*   Strings     -> In Progress
 *   Boolean
 *   Arrays
 *   Dates
