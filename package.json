@@ -1,0 +1,17 @@
+{
+    "name": "JSCakeWalk",
+    "version": "0.0.0",
+    "description": "JSCakeWalk as the name suggests would help any indevidual to learn JavaScript from Scratch",
+    "author": "Shiv Kumar Ganesh (shivganesh@outlook.com / gshiv.sk@gmail.com)",
+    "dependencies": {
+        "jasmine-node": "*",
+        "coffee-script": "*",
+        "grunt": "*"
+    },
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-nodeunit": "*",
+        "grunt-contrib-uglify": "*"
+    }
+}
