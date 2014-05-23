@@ -8,8 +8,8 @@ Features Covered
 *   Numbers Literals     -> Done
 *   Strings Literals     -> In Progress
 *   Boolean	Literals	 -> Done
-*   Arrays
-*   Dates
+*   Arrays  Literals  -> In Progress
+*   Dates   Literals    -> In Progress Getters(Done) Setters(TBD)
 *   Maths
 *   Comparisons
 *   Conditions
