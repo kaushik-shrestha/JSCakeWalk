@@ -78,3 +78,6 @@ describe("CHAPTER 5 --> DATE OBJECT & DATE OPERATIONS", function() {
                     expect(testDate_getUTCSeconds).toEqual(testDate.getUTCSeconds());
                 });
             });
+        describe("Since the setter functions are a bit vauge we will look at it a bit later", function() {
+
+        });
