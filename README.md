@@ -5,9 +5,9 @@ Learn JavaScript from beginning to advanced level just by doing as told. The ent
 Features Covered
 
 *   Variables   -> Done
-*   Numbers     -> Done
-*   Strings     -> In Progress
-*   Boolean
+*   Numbers Literals     -> Done
+*   Strings Literals     -> In Progress
+*   Boolean	Literals	 -> Done
 *   Arrays
 *   Dates
 *   Maths
