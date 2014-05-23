@@ -32,6 +32,6 @@ describe("CHAPTER 2 --> STRING & STRING OPERATIONS", function() {
         expect(result_7).toEqual(my_name.lastIndexOf("o"));
     });
     it("Use function(length) on my_name variable and store it in result_8 variable", function() {
-        expect(result_8).toEqual(my_name.lrngth);
+        expect(result_8).toEqual(my_name.length);
     });
 });
