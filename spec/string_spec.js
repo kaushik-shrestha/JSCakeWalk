@@ -1,4 +1,4 @@
-describe("CHAPTER 2 --> STRING & STRING OPERATIONS", function() {
+describe("CHAPTER 4 --> STRING & STRING OPERATIONS", function() {
 
     /*Code for String Operations*/
 

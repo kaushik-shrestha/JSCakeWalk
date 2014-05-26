@@ -1,4 +1,4 @@
-describe("CHAPTER 4 --> ARRAY & ARRAY OPERATIONS", function() {
+describe("CHAPTER 5 --> ARRAY & ARRAY OPERATIONS", function() {
 
     /**
      * Code for Boolean Variables and some functions associated

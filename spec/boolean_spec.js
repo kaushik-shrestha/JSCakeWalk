@@ -1,4 +1,4 @@
-describe("CHAPTER 4 --> BOOLEAN & BOOLEAN OPERATIONS", function() {
+describe("CHAPTER 3 --> BOOLEAN & BOOLEAN OPERATIONS", function() {
 
     /**
      * Code for Boolean Variables and some functions associated
