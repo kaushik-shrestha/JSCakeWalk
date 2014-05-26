@@ -19,3 +19,6 @@ Features Covered
     *   Objects
     *   Classes
 *   Advanced OOPS TBD   
+
+
+NOTE -> Presently using the local version of the node http-server in order to run the application. 
