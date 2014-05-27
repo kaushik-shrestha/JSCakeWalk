@@ -17,7 +17,7 @@ describe("CHAPTER 1 --> VARIABLES AND LITERALS BASICS", function() {
 describe("CHAPTER 1.1 --> STRING LITERALS BASICS", function() {
     /*Code to check the variable decleration of Type String*/
     it("Declare a variable \"Persons_Name\" and assign it a value Henery within double Quotes", function() {
-        expect(Persons_Name.toLowerCase()).toEqual("Henery");
+        expect(Persons_Name.toLowerCase()).toEqual("henery");
     });
     it("Declare a variable \"Car_Color\" and assign a value \"red\" ", function() {
         expect(Car_Color.toLowerCase()).toEqual("red");
