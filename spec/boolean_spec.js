@@ -12,10 +12,10 @@ describe("CHAPTER 3 --> BOOLEAN & BOOLEAN OPERATIONS", function() {
 });
 
 describe("CHAPTER 3.1 --> FUNCTIONS ASSOCIATED WITH BOOLEAN LITERALS", function() {
+
     /**
      * This section deals with the functions associated with the instance variables
      */
-
     it("Call function(toString()) on variable boolTest and assign the result to a variable boolTestResult_toString", function() {
         expect(boolTestResult_toString).toBe("true");
     });

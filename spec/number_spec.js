@@ -1,9 +1,7 @@
 describe("CHAPTER 2 --> NUMBERS & NUMERIC OPERATIONS BASICS", function() {
 
     /**
-     * Code
-for numeric operations
-
+     * Code for numeric operations
      */
 
     /*ADDITION*/
