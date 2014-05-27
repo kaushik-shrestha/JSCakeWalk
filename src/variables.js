@@ -10,3 +10,52 @@
  * 1. W3Schools (For not so adventure lovin people) http://bit.ly/1oCQcrw
  * 2. MDN (For the adventurous ones) http://mzl.la/Rvo4Ku
  */
+
+/**
+ * Code for the UNIT 1.0 Goes here
+ */
+
+
+
+
+
+
+
+
+
+/**
+ * Code for UNIT 1.1 Goes here
+ */
+
+
+
+
+
+
+
+
+
+/**
+ * Code for UNIT 1.2 Goes here
+ */
+
+
+
+
+
+
+
+
+/**
+ * Code for UNIT 1.3 Goes here
+ */
+
+
+
+
+
+
+
+/**
+ * Code for UNIT 1.4 Goes here
+ */
