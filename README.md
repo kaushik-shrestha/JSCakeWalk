@@ -4,21 +4,21 @@ Learn JavaScript from beginning to advanced level just by doing as told. The ent
 
 Features Covered
 
-*   Variables   -> Done
-*   Numbers Literals     -> Done
-*   Strings Literals     -> In Progress
-*   Boolean	Literals	 -> Done
-*   Arrays  Literals  -> In Progress
-*   Dates   Literals    -> In Progress Getters(Done) Setters(TBD)
-*   Maths
-*   Comparisons
-*   Conditions
-*   Functions
-*   Regex
-*   OOP Basics
-    *   Objects
-    *   Classes
-*   Advanced OOPS TBD   
+
+| S.NO | Feature                        | Status      | Date of Completion | Testing Plans | PStatus | Version |
+|:----:|--------------------------------|-------------|--------------------|---------------|---------|---------|
+| 1    | Variables and Literals         | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
+| 2    | Number and Basic Operations    | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
+| 3    | Boolean and Boolean Operations | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
+| 4    | String and String Operations   | IN PROGRESS | 27-03-2014         |               |         | 1.0     |
+| 5    | Array and Array Operations     | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
+| 6    | Date and Date Operations       | IN PROGRESS | 27-03-2014         |               |         | 1.0     |
+| 7    | Maths                          | TBD         |                    |               |         | 1.0     |
+| 8    | Functions                      | TBD         |                    |               |         | 1.0     |
+| 9    | Basic RegEX                    | TBD         |                    |               |         | 1.0     |
+| 10   | Classes and Objects            | TBD         |                    |               |         | 1.0     |
+| 11   | Prototypes                     | TBD         |                    |               |         | 1.0     |
+| 12   | Inheritance                    | TBD         |                    |               |         | 1.0     |
 
 
 NOTE -> Presently using the local version of the node http-server in order to run the application. 
