@@ -1,27 +1,8 @@
 /**
- * Simple Calculation code goes here
- * @example
- * 	var x = a+b;
- *  var y = a-b;
- *  var z = a*b;
- *  var k = a/b;
- */
-
-				//Your code goes here
-
-
-/**
- * This block deals with numeric methods in JavaScript
- * @example
- * 	var a = 10;
- * 	a.toString();
- * 	a.toFixed()
+ * Number literals are as important as any others. There is a difference between
+ * Number Object as well as Number Literals. This topic deals with the number literals
+ * and would be helpful for anyone to understand numbers in depth.
  *
- * and so on.
- *
- * Referance --> http://mzl.la/1vLAdeO
+ * 1. W3Schools (For not so adventure lovin people) http://bit.ly/1imSPZx
+ * 2. MDN (For the adventurous ones) http://mzl.la/1oD1yM9 , http://mzl.la/1tgS9db
  */
-
- 				//Your code goes here
-
- 

@@ -1,26 +1,28 @@
-describe("CHAPTER 2 --> NUMBERS & NUMERIC OPERATIONS", function() {
+describe("CHAPTER 2 --> NUMBERS & NUMERIC OPERATIONS BASICS", function() {
 
     /*Code for numeric operations*/
 
     /*ADDITION*/
-    it("Declare sum and add two numbers to it like 4+5", function() {
+    it("Declare a variable \"sum\" and add two numbers and assign the result to \"sum\"", function() {
         expect(sum).toEqual(jasmine.any(Number));
     });
-    
+
     /*SUBSTRATION*/
-    it("Declare sub and substract two numbers to it like 4-5", function() {
+    it("Declare \"sub\" and substract two numbers to it like 4-5 and assign the result to \"sub\"", function() {
         expect(sub).toEqual(jasmine.any(Number));
     });
-    
+
     /*MULTIPLICATION*/
-    it("Declare mul and mul two numbers to it like 4*5", function() {
+    it("Declare a variable \"mul\" and multiply two numbers to it like 4*5 and assign the result to \"mul\"", function() {
         expect(mul).toEqual(jasmine.any(Number));
     });
-    
+
     /*DIVISION*/
-    it("Declare div and add divide numbers to it like 4/5", function() {
+    it("Declare \"div\" and divide two numbers like 4/5 and assign the result to \"div\"", function() {
         expect(div).toEqual(jasmine.any(Number));
     });
+});
+describe("CHAPTER 2.1 --> NUMERIC METHODS", function() {
 
     /*Code deals with the Numeric Methods*/
 
@@ -50,5 +52,4 @@ describe("CHAPTER 2 --> NUMBERS & NUMERIC OPERATIONS", function() {
         expect(FloatDec).toEqual(jasmine.any(Number));
         expect(FloatDec).toEqual(23.003);
     });
-
 });
