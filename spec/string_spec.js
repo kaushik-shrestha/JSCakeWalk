@@ -34,4 +34,14 @@ describe("CHAPTER 4 --> STRING & STRING OPERATIONS", function() {
     it("Use function(length) on my_name variable and store it in result_8 variable", function() {
         expect(result_8).toEqual(my_name.length);
     });
+    it("Use function(toUpperCase()) on my_name variable and store it in result_9 variable", function() {
+        expect(result_9).toEqual("ROGER");
+    });
+    it("Use function(trim()) on variable \"TrimTest="
+        jj jj "\"and store it in result_10 variable", function() {
+            expect(result_10).toEqual("jj jj");
+        });
+    it("Use function(substr(1,2)) on my_name variable and store it in result_11 variable", function() {
+        expect(result_11).toEqual("og");
+    });
 });
