@@ -1,6 +1,10 @@
 describe("CHAPTER 2 --> NUMBERS & NUMERIC OPERATIONS BASICS", function() {
 
-    /*Code for numeric operations*/
+    /**
+     * Code
+for numeric operations
+
+     */
 
     /*ADDITION*/
     it("Declare a variable \"sum\" and add two numbers and assign the result to \"sum\"", function() {
@@ -24,7 +28,9 @@ describe("CHAPTER 2 --> NUMBERS & NUMERIC OPERATIONS BASICS", function() {
 });
 describe("CHAPTER 2.1 --> NUMERIC METHODS", function() {
 
-    /*Code deals with the Numeric Methods*/
+    /**
+     * Code deals with the Numeric Methods
+     */
 
     it("Call the Function(toExponential()) on number 25 assighned to variable numOps", function() {
         expect(numOps.toExponential()).toEqual("2.5e+1");

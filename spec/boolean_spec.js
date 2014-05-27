@@ -9,7 +9,9 @@ describe("CHAPTER 3 --> BOOLEAN & BOOLEAN OPERATIONS", function() {
     it("Declate a variable called boolFalseTest and assign it a value False", function() {
         expect(boolFalseTest).toBeFalsy();
     });
+});
 
+describe("CHAPTER 3.1 --> FUNCTIONS ASSOCIATED WITH BOOLEAN LITERALS", function() {
     /**
      * This section deals with the functions associated with the instance variables
      */
