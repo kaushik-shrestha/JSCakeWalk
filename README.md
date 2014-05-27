@@ -10,7 +10,7 @@ Features Covered
 | 1    | Variables and Literals         | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
 | 2    | Number and Basic Operations    | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
 | 3    | Boolean and Boolean Operations | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
-| 4    | String and String Operations   | IN PROGRESS | 27-03-2014         |               |         | 1.0     |
+| 4    | String and String Operations   | COMPLETED   | 27-03-2014         |               |         | 1.0     |
 | 5    | Array and Array Operations     | COMPLETED   | 27-03-2014         | 28/29-05-2014 |         | 1.0     |
 | 6    | Date and Date Operations       | IN PROGRESS | 27-03-2014         |               |         | 1.0     |
 | 7    | Maths                          | TBD         |                    |               |         | 1.0     |
@@ -19,6 +19,5 @@ Features Covered
 | 10   | Classes and Objects            | TBD         |                    |               |         | 1.0     |
 | 11   | Prototypes                     | TBD         |                    |               |         | 1.0     |
 | 12   | Inheritance                    | TBD         |                    |               |         | 1.0     |
-
 
 NOTE -> Presently using the local version of the node http-server in order to run the application. 
