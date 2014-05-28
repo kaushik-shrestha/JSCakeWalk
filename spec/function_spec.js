@@ -23,7 +23,7 @@ describe("CHAPTER 8 --> Functions", function() {
  * use the formula interest = principle*rate*time/100
  * total sum = principle+interest
  */
-describe("CHAPTER 8 --> Simple Interest Calculator", function() {
+describe("CHAPTER 8.1 --> Simple Interest Calculator", function() {
     it("Declare three variables namely \"principle\",\"rate\",\"time\",\"interest\",\"total\"", function() {
         expect(principle).toBeDefined();
         expect(rate).toBeDefined();
