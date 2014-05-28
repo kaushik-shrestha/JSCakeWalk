@@ -23,6 +23,6 @@ describe("CHAPTER 3.1 --> FUNCTIONS ASSOCIATED WITH BOOLEAN LITERALS", function(
         expect(boolTestResult_toLocaleString).toBe("true")
     });
     it("Call function(valueOf()) on variable boolTest and assign the result to a variable boolTestResult_valueOf", function() {
-        expect(boolTestResult_valueOf).toBe(true);
+        expect(boolTestResult_valueOf).toBeTruthy();
     });
 });

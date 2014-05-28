@@ -34,9 +34,9 @@ describe("CHAPTER 1.1 --> STRING LITERALS BASICS", function() {
 describe("CHAPTER 1.2-- > BOOLEAN LITERALS BASICS ", function() {
     /*Code to check the variable decleration of Type Boolean*/
     it("Declare a variable \"amITrue\" and assign it a value true ", function() {
-        expect(amITrue).toBeTruthly();
+        expect(amITrue).toBeTruthy();
     });
-    it("Declare a variable \"amIFalse\"\" and assign a value false ", function() {
+    it("Declare a variable \"amIFalse\"and assign a value false ", function() {
         expect(amIFalse).toBeFalsy();
     });
 });
