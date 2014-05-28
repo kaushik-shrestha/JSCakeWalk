@@ -21,3 +21,5 @@ Features Covered
 | 12   | Inheritance                    | TBD         |                    |               |         | 1.0     |
 
 NOTE -> Presently using the local version of the node http-server in order to run the application. 
+
+Contributors/People interested in contributing please refer to https://github.com/shivkumarganesh/JSCakeWalk/wiki/Who-can-Contribute-and-how%3F
