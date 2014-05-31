@@ -42,3 +42,19 @@ describe("CHAPTER 8.1 --> Simple Interest Calculator", function() {
         expect(total).jasmine.any(Number);
     });
 });
+/**
+ * Passing objects to functions
+ */
+describe("CHAPTER 8.2 --> Passing object to functions - convert a car to another car", function() {
+	it("",function() {
+		it("Declare an object \"myCar\" and assign its attributes \"make\", \"model\", \"year\" to \"Honda\",\"Accord\",1990 respectively ",function(){
+			expect(myCar).toEqual(jasmine.any(Object));
+			expect(myCar.make).toEqual("Honda");
+			expect(myCar.model).toEqual("Accord");
+			expect(myCar.year).toEqual(1990);
+		});
+		it("Declare a function \"changeCar(car)\"",function() {
+			expect(changeCar).jasmine.any(Function);
+		});
+	});
+});
